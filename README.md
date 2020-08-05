@@ -1,4 +1,4 @@
-# micro-base ![GitHub](https://img.shields.io/github/license/brunph/micro-base) ![GitHub file size in bytes](https://img.shields.io/github/size/brunph/micro-base)
+# micro-base ![GitHub](https://img.shields.io/github/license/brunph/micro-base?logo=WTF) ![GitHub file size in bytes](https://img.shields.io/github/size/brunph/micro-base)
 micro-base is built with fast compile time in mind. Can be used in production but would require extensive editing. Main purpose is to provide developers with quick ways to test their ideas.
 
 ## Installation
